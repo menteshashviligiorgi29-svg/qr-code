@@ -1,0 +1,27 @@
+body{
+    background-color: hsl(216, 15%, 48%);
+}
+.div{
+    border-radius: 6px;
+    width: 300px;
+    height: 550px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border-color: white;
+    border: 2px solid;
+    background-color: white;
+}
+img{
+    margin-top: 20px;
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+}
+p{
+    color: gray;
+    font-size: 18px;
+}
+h1{
+    font-size: 35px;
+}
